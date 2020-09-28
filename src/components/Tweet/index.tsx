@@ -27,7 +27,7 @@ const Tweet: React.FC = () => {
       </Retweeted>
 
       <Body>
-        <Avatar />
+        <Avatar src='https://github.com/rocketseat.png' alt='rocketseat' />  
         <Content>
           <Header>
             <strong>RocketSeat</strong>
@@ -43,7 +43,7 @@ const Tweet: React.FC = () => {
 
           <Icons>
             <Status>
-              <CommentIcon />
+              <CommentIcon  />
               18
             </Status>
             <Status>

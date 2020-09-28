@@ -11,7 +11,7 @@ const FollowSuggestion: React.FC<Props> = ({name, nickname}) => {
   return (
     <Container>
       <div>
-        <Avatar />
+        <Avatar src='https://github.com/gabrielpdev.png' alt='gabriel' />  
 
         <Info>
           <strong>{name}</strong>

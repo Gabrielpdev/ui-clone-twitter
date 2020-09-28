@@ -17,7 +17,7 @@ const Profilepage: React.FC = () => {
   return (
     <Container>
       <Banner>
-        <Avatar />  
+        <Avatar src='https://github.com/gabrielpdev.png' alt='gabriel' />  
       </Banner>   
 
       <ProfileData>
