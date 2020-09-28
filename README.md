@@ -27,7 +27,7 @@ $ yarn start
 
 - 🔵 [TypeScript][typescript]
 - ⚛️ [React][reactjs]
-- [Sticky Box][sticky-box]
+- 🩹 [Sticky Box][sticky-box]
 - 💅 [Styled-components][styled-components]
 
 Feito com ❤️ por Gabriel Pereira 👋🏽 [Entre em contato!](https://www.linkedin.com/in/gabriel-pereira-oliveira-78b1801ab/)
